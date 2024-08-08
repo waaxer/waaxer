@@ -1,4 +1,4 @@
-### " - Escolhas. Tudo se resume a isso, os sins e os nãos da vida, mas nós decidimos isso ou eles decidem a gente? " 
+### 
 
 <!--
 **waaxer/waaxer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
